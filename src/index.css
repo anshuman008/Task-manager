@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+  
+html, body, #root, .App {
+    min-height: 100%;
+    background-color: #151515;
+
+     /* font-family: 'Montserrat', sans-serif; */
+     font-family: 'Poppins', sans-serif;
+     /* font-family: 'Ubuntu Mono', monospace; */
+
+  }
